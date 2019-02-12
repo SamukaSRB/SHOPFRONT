@@ -1,0 +1,36 @@
+body{
+    padding-top:30px;
+    background-color: #999;
+}
+ 
+.material-icons{
+  height: 90px;
+  margin: 12px;
+}
+
+small {
+  margin-top: 5px;
+  display: block;
+  line-height: 1.428571429;
+  color: #888888;
+} 
+.fontTitulo {
+  font-family: Roboto Condensed, sans-serif;
+  text-align: center;
+  text-transform: uppercase;
+  color: #2b5a33;
+}
+.nomeProduto{
+  font:'Roboto Regular', arial;
+}
+.material-icons{
+  color: #2b5a33;
+  font-size:68px;
+  width: 70px;
+  height: 90px;
+  margin: 12px;
+}
+
+button{
+  margin-top:12px;
+}
